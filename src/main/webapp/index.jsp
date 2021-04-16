@@ -11,5 +11,8 @@
        <h3> final changes - 2021</h3>
   
           <h3> Next stage to build selenium-maven project- 2021</h3>
+  
+              <h3>Hello World! Today is Friday - 2021</h3>
+  
 </body>
 </html>
