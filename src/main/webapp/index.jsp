@@ -12,7 +12,12 @@
   
           <h3> Next stage to build selenium-maven project- 2021</h3>
   
-             <h3> dev stage added </h3>
+             <h2> Development stage added </h2>
+  
+               <h2> Test stage added </h2>
+  
+                  <h2> Preproduction stage added </h2>
+              
   
              
   
